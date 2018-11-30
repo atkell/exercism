@@ -2,7 +2,7 @@
 .exercism/
 .exercism/metadata.json
 
- Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
